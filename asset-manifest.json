@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/neumorphism/static/css/main.a0f92c83.chunk.css",
+    "main.js": "/neumorphism/static/js/main.9537fe05.chunk.js",
+    "main.js.map": "/neumorphism/static/js/main.9537fe05.chunk.js.map",
+    "runtime-main.js": "/neumorphism/static/js/runtime-main.7dc67a61.js",
+    "runtime-main.js.map": "/neumorphism/static/js/runtime-main.7dc67a61.js.map",
+    "static/js/2.9c3556ea.chunk.js": "/neumorphism/static/js/2.9c3556ea.chunk.js",
+    "static/js/2.9c3556ea.chunk.js.map": "/neumorphism/static/js/2.9c3556ea.chunk.js.map",
+    "static/js/3.faa86c74.chunk.js": "/neumorphism/static/js/3.faa86c74.chunk.js",
+    "static/js/3.faa86c74.chunk.js.map": "/neumorphism/static/js/3.faa86c74.chunk.js.map",
+    "index.html": "/neumorphism/index.html",
+    "service-worker.js": "/neumorphism/service-worker.js",
+    "service-worker.js.map": "/neumorphism/service-worker.js.map",
+    "static/css/main.a0f92c83.chunk.css.map": "/neumorphism/static/css/main.a0f92c83.chunk.css.map",
+    "static/js/2.9c3556ea.chunk.js.LICENSE.txt": "/neumorphism/static/js/2.9c3556ea.chunk.js.LICENSE.txt",
+    "static/media/logo.103b5fa1.svg": "/neumorphism/static/media/logo.103b5fa1.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7dc67a61.js",
+    "static/js/2.9c3556ea.chunk.js",
+    "static/css/main.a0f92c83.chunk.css",
+    "static/js/main.9537fe05.chunk.js"
+  ]
+}
