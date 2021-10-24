@@ -35,16 +35,16 @@
   width: 58px;
   height: 58px;
   border-radius: 17px;
-  background: #ffe2cc;
-  box-shadow: 6px 6px 12px #ebd0bc, -6px -6px 12px #fff4dc;
+  background: #e0b6a6;
+  box-shadow: 6px 6px 12px #cea799, -6px -6px 12px #f2c5b3;
 }
 
 .fuga {
   width: 58px;
   height: 58px;
   border-radius: 17px;
-  background: #ffe2cc;
-  box-shadow: inset 6px 6px 12px #ebd0bc, inset -6px -6px 12px #fff4dc;
+  background: #e0b6a6;
+  box-shadow: inset 6px 6px 12px #cea799, inset -6px -6px 12px #f2c5b3;
 }
 
 @media screen and (min-width: 700px) {
@@ -60,16 +60,16 @@
   .hoge {
     width: 87px;
     height: 87px;
-    border-radius: 27px;
-    background: #ffe2cc;
-    box-shadow: 10px 10px 20px #ebd0bc, -10px -10px 20px #fff4dc;
+    border-radius: 17px;
+    background: #e0b6a6;
+    box-shadow: 9px 9px 17px #cea799, -9px -9px 17px #f2c5b3;
   }
 
   .fuga {
     width: 87px;
     height: 87px;
-    border-radius: 27px;
-    background: #ffe2cc;
-    box-shadow: inset 10px 10px 20px #ebd0bc, inset -10px -10px 20px #fff4dc;
+    border-radius: 17px;
+    background: #e0b6a6;
+    box-shadow: inset 9px 9px 17px #cea799, inset -9px -9px 17px #f2c5b3;
   }
 }
