@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/neumorphism/static/css/main.06516db0.chunk.css",
+    "main.css": "/neumorphism/static/css/main.3361a366.chunk.css",
     "main.js": "/neumorphism/static/js/main.676954d6.chunk.js",
     "main.js.map": "/neumorphism/static/js/main.676954d6.chunk.js.map",
     "runtime-main.js": "/neumorphism/static/js/runtime-main.7661f494.js",
@@ -12,13 +12,13 @@
     "index.html": "/neumorphism/index.html",
     "service-worker.js": "/neumorphism/service-worker.js",
     "service-worker.js.map": "/neumorphism/service-worker.js.map",
-    "static/css/main.06516db0.chunk.css.map": "/neumorphism/static/css/main.06516db0.chunk.css.map",
+    "static/css/main.3361a366.chunk.css.map": "/neumorphism/static/css/main.3361a366.chunk.css.map",
     "static/js/2.058cae06.chunk.js.LICENSE.txt": "/neumorphism/static/js/2.058cae06.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.7661f494.js",
     "static/js/2.058cae06.chunk.js",
-    "static/css/main.06516db0.chunk.css",
+    "static/css/main.3361a366.chunk.css",
     "static/js/main.676954d6.chunk.js"
   ]
 }
